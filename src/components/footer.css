@@ -1,0 +1,22 @@
+/** @format */
+
+.social-icons {
+    /* position:absolute; */
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height:5vh;
+  padding:10px;
+  gap: 10px;
+  background: #292931;
+  border-radius: 0px 0px 10px 10px;
+  color:whitesmoke;
+  width:100vw;
+ 
+  
+}
+.footer-wrapper {
+   position:fixed;
+   bottom:0px;
+    
+}
